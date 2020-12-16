@@ -13,3 +13,10 @@
 5. git commit -m "message"
 6. we have to connect this repo with a remote repo
 7. git push to the remote repo
+
+
+#### unordered list
+
+- lets check the different commits
+- we are going to use git log
+
